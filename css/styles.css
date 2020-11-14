@@ -1,28 +1,17 @@
-/* navlist */
+
 
 body{
     background-color: white;
 }
 
-li {
-    /* border-bottom: 1px solid white; */
-    
-   
-}
-
-/* #header-nav{
-  
-   background-color: hotpink;
-   
-} */
 #nav-list a{
-    /* text-align: center; */
+    
     color: white;
     font-weight: bold;
     border-bottom:1px solid black;
     border-top: 1px solid black;
     margin-bottom: -1px;
-    /* inline-size: 1px solid tomato; */
+    
    
 }
 
