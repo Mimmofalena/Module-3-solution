@@ -1,0 +1,68 @@
+/* navlist */
+
+body{
+    background-color: white;
+}
+
+li {
+    /* border-bottom: 1px solid white; */
+    
+   
+}
+
+/* #header-nav{
+  
+   background-color: hotpink;
+   
+} */
+#nav-list a{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-bottom:1px solid black;
+    border-top: 1px solid black;
+    margin-bottom: -1px;
+    /* inline-size: 1px solid tomato; */
+   
+}
+
+#nav-list a:hover{
+    background: white;
+}
+.navbar-brand h1{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+}
+
+
+
+
+#main-content section {
+    background-color: grey;
+    padding-top:20px;
+
+}
+
+p{
+    text-align: left;
+    text-justify: left;
+    padding:10px;
+    height: 1000px;
+    overflow: scroll;
+}
+
+#collapsable-nav #nav-list li{
+    background-color: grey;
+}
+#collapsable-nav #nav-list a:hover{
+    background-color: teal;
+}
