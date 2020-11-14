@@ -16,7 +16,7 @@ li {
    
 } */
 #nav-list a{
-    text-align: center;
+    /* text-align: center; */
     color: white;
     font-weight: bold;
     border-bottom:1px solid black;
